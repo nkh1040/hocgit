@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACb;;AAED,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,uBAAuB;EACpC,SAAS,EFSP,IAAI;EERN,WAAW,EFqBA,IAAI;EEpBf,KAAK,EFRM,OAAO;EESlB,gBAAgB,EFPL,IAAI;CEQlB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/Helpers/_variables.scss",
+        "../sass/Helpers/_mixin.scss",
+        "../sass/Base/_reset.scss",
+        "../sass/Base/_customize.scss",
+        "../sass/Layouts/_header.scss",
+        "../sass/Layouts/_footer.scss",
+        "../sass/Components/_button.scss",
+        "../sass/Pages/_home.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

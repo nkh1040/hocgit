@@ -1,0 +1,11 @@
+.cover{
+    background-image: url(/IMG/cover.jpg);
+    @extend %backgroundImg;
+    height: 500px;
+    .cover__content{
+        max-width: 500px;
+        .h1{
+            color: $color-white-0;
+        }
+    }
+}
